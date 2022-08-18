@@ -1,0 +1,47 @@
+I"�<p>Las expresiones regulares consisten de cadenas de caracteres que, encodados de una forma específica, se usan para capturar determinados conjuntos de caracteres. Esta definición de Fitzgerald es muy precisa y permite de partida ver los usos de una tal herramienta, por ejemplo, en la descripción lingüística, desde los años 40, o en la programación de aplicativos de edición de textos, a partir de los años 70 del siglo pasado (Fitzgerald 2012, 1). Una definición más sintética sería</p>
+
+<blockquote>
+  <p>“secuencia de caracteres que conforma un patrón de búsqueda” y que permite capturar determinados patrones en una cadena de caracteres y realizar, por ejemplo, operaciones de sustitución (“Expresión regular” 2021)</p>
+</blockquote>
+
+<p>En ambas definiciones de lo que se trata es de la aplicación de un lenguaje formal a lenguajes regulares, es decir el uso de un conjunto de meta-caracteres del lenguaje formal para capturar configuraciones específicas de los caracteres del lenguaje regular (por ejemplo, el alfabeto de un lenguaje natural).</p>
+
+<p>Es una herramienta muy asequible y que permite usos muy mundanos y muy complejos a la vez.
+El conocimiento y práctica de este lenguaje formal especializado permite a una persona u organización que investigan datos públicos tener un mayor control sobre su propio trabajo investigativo, sus procesos y protocolos, y lo que producen, es decir: <strong>datos</strong>. Se trata también de un espacio de ejercicio ciudadano, ya que lidiamos con datos públicos y con los procesos de producción que convierten esos datos en algo más y que, potencialmente, pueden ayudar a analizar la realidad y proponer cambios.</p>
+
+<p>En esta breve lección propongo seguir una serie de ejemplos y probar dos herramientas. Los ejemplos saldrán mayormente de mi investigación sobre datos bibliográficos de la literatura boliviana tomados de diversas fuentes, tanto públicas como privadas, pero enfatizando la agencia ciudadana en el trato con las fuentes y los datos. A través de esa agencia ciudadana se pueden poner en dominio público datos que, de otro modo, quedarían en silos informativos muy poco alcanzables.</p>
+
+<p>En este contexto, la base de datos de la Modern Language Association es el caso de una base de datos propietaria que vende sus datos bibliográficos a las instituciones de enseñanza superior en Estados Unidos donde los datos se procesan de diversas maneras. De esa forma, algunos de los datos de la MLA terminan en dominio público a través de publicaciones académicas, pero muy raramente se ponen a disposición los datos mismos luego de su procesamiento-enriquecimiento.</p>
+
+<p><img src="\assets\images\image-leccion-1.jpg" alt="Ejemplo" /></p>
+
+<p>El valor agregado que se produce a través de la investigación u otras actividades intelectuales y artísticas no es necesariamente económico o cuantitativo, sino que redunda en prestigio, influencia, redes. Pero ¿cómo se produce en concreto ese valor agregado?</p>
+
+<p>que, de hecho, es la forma de aparición pública de los datos en tanto objeto comunicable, por ejemplo, en diversos tipos de publicaciones. En el caso de los datos extraídos de bases de datos, casi siempre, el trabajo de la limpieza, análisis preliminar y posterior curaduría, es indispensable. Los datos extraídos casi nunca están modelizados para nuestros propósitos, lo que implica muchísmo trabajo especialmente para convertir datos extraídos en datos usables.</p>
+
+<p>pero en el caso de los datos se puede ver muy claramente, la necesidad, todavía, del trabajo humano para mantener la maquinaria de los datos andando, poniendo a los académicos en un rol de producir un cierto valor agregado. Es ahí donde la ciudadanía puede intervenir para analizar y mostrar el</p>
+
+<p>Los investigadores en esas instituciones producen investigación con datos sacados de fuentes de este tipo, pero no sólo producen investigación sino que enriquecen los datos con otros datos y producen más investigación en base a eso. En esta lección muestro un ejemplo de enriquecimiento de datos y sugiero que este proceso debería integrar la caja de herramientas de la ciudadanía digital. 1) Por mostrar lo que sucede por detrás de abstracciones digitales tales como los aplicativos que usamos normalmente, 2) por mostrar el proceso de producción de datos en el cual los ciudadanos tienen un rol fundamental, ya sea pasivamente, con o sin consentimiento, o, activamente, si participan en su procesamiento, por ejemplo a través del micro-trabajo.</p>
+
+<ul>
+  <li>
+    <p>aplicativos web regex
+(Dib s/f; “RegExr: Learn, Build, &amp; Test RegEx” s/f)</p>
+  </li>
+  <li>
+    <p>OpenRefine
+(“OpenRefine” s/f)</p>
+  </li>
+</ul>
+
+<h3 id="referencias">Referencias</h3>
+
+<p>Dib, Firas. s/f. “Regex101: Build, Test, and Debug Regex”. Regex101. Consultado el 30 de mayo de 2021. <a href="https://regex101.com">regex 101</a>.</p>
+
+<p>“Expresión regular”. 2021. En Wikipedia, la enciclopedia libre. <a href="https://es.wikipedia.org/w/index.php?title=Expresi%C3%B3n_regular&amp;oldid=134224430">expresión regular</a>.</p>
+
+<p>Fitzgerald, Michael. 2012. Introducing Regular Expressions : Unraveling Regular Expressions, Step-by-Step. Sebastopol, CA: O’Reilly Media.
+“OpenRefine”. s/f. Consultado el 10 de mayo de 2020. <a href="https://openrefine.org/">openrefine</a>.</p>
+
+<p>“RegExr: Learn, Build, &amp; Test RegEx”. s/f. RegExr. Consultado el 13 de marzo de 2021. <a href="https://regexr.com/">regexr</a>.</p>
+:ET
